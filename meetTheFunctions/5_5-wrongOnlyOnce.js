@@ -4,6 +4,9 @@ var calculate = function (number) {
     console.log(val);
 };
 
-// Badly written function with syntax errors!
+// Nicely written function with syntax errors!
+var greeting = function(name){
+    console.log(name);
+};
 
-greeting var func{name}(console.log(name)))}
+greeting("Kenzo");
