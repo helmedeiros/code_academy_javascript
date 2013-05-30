@@ -14,7 +14,7 @@ INSTRUCTIONS
 3.Run your code and the five sentences should print out.
 */
 
-var names = ['Hélio', 'Hana', 'Kenzo', 'Antônia', 'Fernanda'];
-for(var i = 0; i < names.length; i++){
-	console.log('I know someone called ' + names[i]);
-}
+	var names = ['Hélio', 'Hana', 'Kenzo', 'Antônia', 'Fernanda'];
+	for(var i = 0; i < names.length; i++){
+		console.log('I know someone called ' + names[i]);
+	}
