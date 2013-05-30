@@ -17,6 +17,6 @@ INSTRUCTIONS
 3.Count up by increments of 12.
 Remember, if you accidentally make a loop that never ends, your browser will crash!
 */
-for (var i = 8 ; i < 120; i+=12) {
+for (var i = 8	 ; i < 120; i+=12) {
 	console.log(i);
 }
