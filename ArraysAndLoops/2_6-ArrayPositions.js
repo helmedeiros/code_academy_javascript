@@ -9,7 +9,13 @@ Small complication: the position (or the index) of each bit of data is counted s
 First element in the array: junkData[0]
 Third element in the array: junkData[2]
 Arrays have 0-based indexing, so we start counting the positions from 0.
+
+INSTRUCTIONS
+Print out the fourth element of the array. 
+1. Start with figuring out how to express what the fourth element in the array is.
+2. Then use console.log() to print things out!
 */
 
 var junkData = ["Eddie Murphy", 49, "peanuts", 31];
+console.log	(junkData[3]);
 
