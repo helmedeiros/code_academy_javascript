@@ -18,4 +18,13 @@ Syntax:
 var arrayName = [data, data, data];
 
 Any time you see data surrounded by [ ], it is an array.
+
+INSTRUCTIONS
+Make your own array called junk. Put 4 bits of data in it (first 2 strings, then 2 numbers). 
+1. Declare it using var.
+3. Put your data around [ ] and separate each bit of data with a comma.
+4. End it with a semi-colon.
+5. Use console.log to print out junk.
 */
+var junk = ["a", "b", 1, 2];
+console.log(junk);
