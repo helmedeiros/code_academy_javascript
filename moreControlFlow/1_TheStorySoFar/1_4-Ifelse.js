@@ -15,7 +15,7 @@
 var isEven = function(number) {
 	var isEven = true;
 	
-	if(number%2 != 0){
+	if(number%2 !== 0){
 		isEven = false;
 	}
 	
